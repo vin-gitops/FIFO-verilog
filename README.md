@@ -63,5 +63,9 @@ FIFO buffers are usually used in:
 - conecting thsi with previously coded ALU so FIFO store the output values of ALU
 - Intergration with communication protocols
 
+# RUN SIMULATION
+https://www.edaplayground.com/x/DaCT
+
+
 # AUTHOR
 RTL Design & verification enthusiast 
