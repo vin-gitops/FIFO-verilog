@@ -55,12 +55,12 @@ The design is verified using a testbench which performs:
 # APPLICATIONS
 FIFO buffers are usually used in:
 - UART communication
-- Network pcket buffering
+- Network packet buffering
 - processor pipelines
 - data streaming systems
 
 # FUTURE IMPROVEMNTS
-- conecting thsi with previously coded ALU so FIFO store the output values of ALU
+- connecting this with previously coded ALU so FIFO store the output values of ALU
 - Intergration with communication protocols
 
 # RUN SIMULATION
